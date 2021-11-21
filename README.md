@@ -48,8 +48,10 @@
   ##
   
   <h3>OPERATIONAL SYSTEMS 💿</h3><br />
-  <a href="https://github.com/ImYout">
+  <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
     <img align="center" alt="system-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
     <img align="center" alt="system-UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </a>
   <br />
