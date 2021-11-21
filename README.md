@@ -9,12 +9,6 @@
 - [ ] 🎥 - Make a Animation
 - [ ] 🎮 - Make a Game
 
-<div>
-  <a href="https://github.com/ImYout">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ImYout&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYout&layout=compact&langs_count=16&theme=gruvbox" />
-</div>
-
 <div style="display: inline_block">
   <h3>SOCIAL MEDIAS 💻</h3>
   <a href="https://twitter.com/poxayout">
