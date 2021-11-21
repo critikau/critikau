@@ -26,9 +26,6 @@
   <a href="https://www.twitch.tv/poxayout">
     <img align="center" alt="social-TWITCH" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UCe5g-aoKTXgUjvu1jJRMAbA">
-    <img align="center" alt="social-YOUTUBE" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <img align="right" width="100px" alt="avatar-GIF" src="https://i.imgur.com/86uEM0S.gif" />
   
   ##
